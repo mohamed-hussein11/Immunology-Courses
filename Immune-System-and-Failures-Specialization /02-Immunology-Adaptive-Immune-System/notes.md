@@ -9,7 +9,6 @@
 - **Effector mechanisms** for pathogen recognition and clearance  
 - **B cell tolerance** to prevent self-reactivity  
 - Coordination of B cells with **innate immune mechanisms**  
-- Key readings and videos: B cell responses, development, effector functions, tolerance  
 
 ---
 
@@ -18,8 +17,7 @@
 - **T helper subsets (Th1, Th2, and beyond)** and their functions  
 - **T cell receptor (TCR) selection** in the thymus  
 - Mechanisms preventing **autoimmunity**  
-- Coordination of T cell responses with other immune cells  
-- Key readings and videos: T cell activation, helper subsets, thymic selection  
+- Coordination of T cell responses with other immune cells    
 
 ---
 
@@ -28,31 +26,25 @@
 - Activation pathways and **target recognition mechanisms**  
 - Comparison with complementary direct immune killing pathways  
 - Regulation to prevent **damage to healthy cells**  
-- Key readings and videos: Cytotoxic killing mechanisms and regulation  
-
 ---
 
 ### 🛡️ Module 4: Regulatory T Cells  
 - **Development and function** of regulatory T cells (Tregs)  
 - Mechanisms of **immune suppression and tolerance maintenance**  
 - Therapeutic implications for controlling autoimmunity or inflammation  
-- Key readings and videos: Treg biology, functions, therapeutic relevance  
-
 ---
 
 ### 🏃 Module 5: Lymphocyte Recirculation and Homing  
 - Mechanisms of **lymphocyte migration** from bloodstream to tissues  
 - **Diapedesis** and tissue-specific homing  
-- Importance of **regulated trafficking** for efficient immune response  
-- Key readings and videos: Lymphocyte recirculation, homing to infection sites  
+- Importance of **regulated trafficking** for efficient immune response    
 
 ---
 
 ### ⏳ Module 6: The Effect of Age on the Function of the Immune System  
 - Impact of **aging on adaptive immune responses**  
 - Concept of **inflammaging**, its causes, and consequences  
-- Implications for **disease susceptibility and therapeutic approaches**  
-- Key readings and videos: Ageing of the immune system, inflammaging  
+- Implications for **disease susceptibility and therapeutic approaches**    
 
 ---
 
