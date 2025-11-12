@@ -1,7 +1,7 @@
 # 🧬 Immunology: Adaptive Immune System  
 
 🏛️ **Institution:** Imperial College London  
-👩‍🏫 **Instructors:** Dr. Malgorzata (Maggie) Trela , Dr. Sophie Rutschmann 
+👩‍🏫 **Instructors:** Dr. Malgorzata (Maggie) Trela , Dr. Sophie Rutschmann    
 🎓 **Learning Platform:** Coursera  
 🔗 **Course URL link:** [Immunology: Adaptive Immune System](https://www.coursera.org/learn/immunology-adaptive-immune-system)  
 📜 **Certificate of completion:** Available upon request  
