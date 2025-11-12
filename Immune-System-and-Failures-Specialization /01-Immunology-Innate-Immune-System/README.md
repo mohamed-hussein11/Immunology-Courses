@@ -33,11 +33,21 @@ The course also encourages reflection on **current issues and debates** in innat
 
 ---
 
-## 🎯 Relevance to My Field  
 
-This course enhances understanding of the **molecular and cellular mechanisms of innate immune defense**, a fundamental aspect of **immunology and cancer biology**.  
-It supports my research interests in **molecular cancer biology** and **immune regulation**, particularly how **innate pathways interact with tumor microenvironments** and how **innate-adaptive communication** influences disease outcomes.  
-Additionally, it provides a scientific basis for understanding **inflammation**, **pathogen recognition**, and **immune cell activation**, all of which are essential for studying **miRNA regulation in immune and cancer signaling**.
+## 🎯 Relevance to My Field
+
+As a **Master’s student in Molecular Cancer Biology and Bioinformatics**, this course strengthened my understanding of **innate immune defense mechanisms**, a core foundation for both **immunology** and **cancer biology**.
+
+Building on my undergraduate project on **autoimmune diseases**, it provided insights into:
+
+* **Innate immune components and barriers**
+* **Complement system activation and pathogen clearance**
+* **Microbiota’s role in immune programming**
+* **Antigen processing via MHC I & II**
+* **Natural Killer cell functions and regulation**
+
+This knowledge helps me connect **innate immune signaling** to **tumor microenvironment interactions** and supports the integration of **bioinformatics analyses with experimental cancer research**.
+
 
 ---
 
