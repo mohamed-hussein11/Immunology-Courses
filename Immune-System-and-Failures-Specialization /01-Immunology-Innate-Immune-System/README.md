@@ -1,9 +1,7 @@
 # 🧬 Immunology: Innate Immune System  
 
 🏛️ **Institution:** Imperial College London  
-👩‍🏫 **Instructors:**  
-- Dr. Sophie Rutschmann  
-- Dr. Malgorzata (Maggie) Trela  
+👩‍🏫 **Instructors:** Dr. Sophie Rutschmann, Dr. Malgorzata (Maggie) Trela  
 🎓 **Learning Platform:** Coursera  
 🔗 **Course URL link:** [Immunology: Innate Immune System](https://www.coursera.org/learn/immunology-innate-immune-system)  
 📜 **Certificate of completion:** Available upon request  
