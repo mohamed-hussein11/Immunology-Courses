@@ -5,7 +5,7 @@
 
 ### 🩸 Module 1: Components of the Innate Immune System  
 - Overview of the main components of innate immunity  
-- Role of **physical and chemical barriers** in preventing pathogen entry  
+- Role of **anatomic and chemical barriers** in preventing pathogen entry  
 - Key **protective mechanisms** that recognize and combat infections  
 - Description of how the innate system distinguishes and eliminates pathogens  
 - Understanding of **Toll-like receptors (TLRs)** and **cytokine signaling** as part of innate recognition  
