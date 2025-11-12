@@ -1,9 +1,9 @@
-# 🧬 Notes: Immunology – Innate Immune System  
+#  Notes: Immunology – Innate Immune System  
 ---
 
 ## 📚 Weekly Modules & Key Topics  
 
-### 🩸 Module 1: Components of the Innate Immune System  
+### 🧬 Module 1: Components of the Innate Immune System  
 - Overview of the main components of innate immunity  
 - Role of **anatomic and chemical barriers** in preventing pathogen entry  
 - Key **protective mechanisms** that recognize and combat infections  
@@ -12,7 +12,7 @@
 
 ---
 
-### 🧩 Module 2: The Complement System  
+### 🧪 Module 2: The Complement System  
 - Structure and components of the **complement system**  
 - Mechanisms of complement **activation by pathogens**  
 - Functional outcomes leading to **pathogen destruction**  
@@ -21,7 +21,7 @@
 
 ---
 
-### 🌿 Module 3: Programming of Innate Immunity by the Microbiota  
+### 🦠 Module 3: Programming of Innate Immunity by the Microbiota  
 - Definition and role of the **human microbiome** in health  
 - Influence of microbiota on **immune system programming**  
 - Relationship between microbiota and diseases such as **asthma, diabetes, and cancer**  
@@ -30,7 +30,7 @@
 
 ---
 
-### 🔬 Module 4: Antigen Processing – MHC Class I and Class II  
+### 📡 Module 4: Antigen Processing – MHC Class I and Class II  
 - Communication between **innate and adaptive immune systems**  
 - Mechanisms of **antigen capture, digestion, and presentation** by immune cells  
 - Function of **MHC Class I and Class II molecules** in presenting pathogenic antigens  
@@ -59,7 +59,7 @@
 
 ---
 
-## 🔍 Practical & Analytical Aspects  
+## 🔬 Practical & Analytical Aspects  
 
 - Analysis of complement activation pathways and immune response outcomes  
 - Study of the interplay between microbiota composition and immune regulation  
