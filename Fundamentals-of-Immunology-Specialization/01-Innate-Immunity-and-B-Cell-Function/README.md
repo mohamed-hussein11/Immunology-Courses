@@ -15,7 +15,7 @@ This course introduces students to the **basic functions of the adaptive and inn
 
 The course covers:
 
-- **Cells, tissues, and organs** of the immune system using metaphors, cartoons, and models  
+- **Cells, tissues, and organs** of the immune system using metaphors and models  
 - **Structure, function, and varieties of antibodies**  
 - Mechanisms of **antibody variation, gene rearrangement, class switching, and affinity maturation**  
 - Anatomical context of immune system organization  
