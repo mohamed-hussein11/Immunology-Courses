@@ -3,7 +3,7 @@
 🏛️ **Institution:** Imperial College London  
 👩‍🏫 **Instructors:** Dr. Malgorzata (Maggie) Trela, Dr. Sophie Rutschmann  
 🎓 **Learning Platform:** Coursera  
-🔗 **Course URL link:** [Immunology: Immune System and Infectious Diseases](https://www.coursera.org/learn/immunology-immune-system-and-infectious-diseases/home/info) 
+🔗 **Course URL link:** [Immunology: Immune System and Infectious Diseases](https://www.coursera.org/learn/immunology-immune-system-and-infectious-diseases/home/info)     
 📜 **Certificate of completion:** Available upon request  
 📝 **Notes:** [`notes.md`](./notes.md)
 
