@@ -3,7 +3,7 @@
 🏛️ **Institution:** Rice University  
 👩‍🏫 **Instructor:** Alma Moon Novotny, Ph.D.  
 🎓 **Learning Platform:** Coursera  
-🔗 **Course URL link:** [Fundamentals of Immunology: Innate Immunity and B-Cell Function](https://www.coursera.org/learn/immunology-innate-immune-system)  
+🔗 **Course URL link:** [Fundamentals of Immunology: Innate Immunity and B-Cell Function]((https://www.coursera.org/learn/immunologyfundamentalsimmunitybcells)  
 📜 **Certificate of completion:** Available upon request  
 📝 **Notes:** [`notes.md`](./notes.md)
 
