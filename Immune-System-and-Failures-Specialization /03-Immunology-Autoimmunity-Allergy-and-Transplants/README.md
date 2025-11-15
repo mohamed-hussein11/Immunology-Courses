@@ -3,7 +3,7 @@
 🏛️ **Institution:** Imperial College London  
 👩‍🏫 **Instructors:** Dr. Malgorzata (Maggie) Trela, Dr. Sophie Rutschmann  
 🎓 **Learning Platform:** Coursera  
-🔗 **Course URL link:** (Immunology: Autoimmunity, Allergy, and Transplants)[  https://www.coursera.org/learn/immunology-autoimmunity-allergy-and-transplants]
+🔗 **Course URL link:** (Immunology: Autoimmunity, Allergy, and Transplants)[https://www.coursera.org/learn/immunology-autoimmunity-allergy-and-transplants]
 📜 **Certificate of completion:** Available upon request  
 📝 **Notes:** [`notes.md`](./notes.md)
 
