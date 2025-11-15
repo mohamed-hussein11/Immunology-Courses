@@ -65,7 +65,7 @@ As a **Master’s student in Molecular Cancer Biology and Bioinformatics**, this
 
 This folder contains my personal study notes and reflections based on the publicly available course structure of **Fundamentals of Immunology: Innate Immunity and B-Cell Function** from **Rice University** on Coursera.  
 All original course materials, including videos, slides, and assessments, belong to **Rice University** and **Coursera**.  
-This repository is intended solely for **personal educational use** and does not contain any proprietary or copyrighted content.
+This folder is intended solely for **personal educational use** and does not contain any proprietary or copyrighted content.
 
 ---
 
