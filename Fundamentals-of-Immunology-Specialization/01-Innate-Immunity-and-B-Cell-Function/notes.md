@@ -7,9 +7,7 @@
 - Overview of metaphors, cartoons, and models to understand immune system  
 - Pathogen varieties and recognition mechanisms  
 - Difference between **innate and adaptive immune responses**  
-- Contextual framework for staying healthy and immune defense  
-- Graded practice quiz covering lesson concepts  
-
+- Contextual framework for staying healthy and immune defense    
 ---
 
 ### 🧪 Module 2: Surveying the Cells and Organs of the Immune System  
@@ -17,8 +15,7 @@
 - **Hematopoiesis** and immune cell origin  
 - Myeloid granulocytes and antigen-presenting cells  
 - Lymphocyte types and functions  
-- Primary, secondary, and tertiary lymphoid organs  
-- Graded quizzes reviewing organ systems and immune cells  
+- Primary, secondary, and tertiary lymphoid organs    
 
 ---
 
@@ -26,8 +23,7 @@
 - Basic principles of **innate immune mechanisms**  
 - Inflammatory response and pathogen targeting  
 - Myeloid cell function in immunity  
-- Comparison of **innate vs. adaptive immunity**  
-- Practice quiz on innate immune response  
+- Comparison of **innate vs. adaptive immunity**    
 
 ---
 
@@ -35,8 +31,7 @@
 - **Immunoglobulin superfamily**: form, function, and classes  
 - Mechanisms of **specific Ig types**  
 - **Fc biological activity** and B-cell receptor function  
-- Monoclonal antibodies overview  
-- Practice quiz on antibody concepts  
+- Monoclonal antibodies overview    
 
 ---
 
@@ -45,8 +40,7 @@
 - Gene rearrangement in B-cell development  
 - Recombination signal sequences and mechanism details  
 - Antibody diversity and class switching  
-- Synthesis and secretion of immunoglobulins  
-- Practice quiz on immunoglobulin genes  
+- Synthesis and secretion of immunoglobulins    
 
 ---
 
@@ -55,9 +49,7 @@
 - T-cell independent activation and primary/secondary responses  
 - Anatomical and histological context  
 - **Affinity maturation** and regulation  
-- Final decisions in B-cell development  
-- Practice quiz on B-cell development  
-
+- Final decisions in B-cell development    
 ---
 
 ### 🎓 Module 7: Final  
